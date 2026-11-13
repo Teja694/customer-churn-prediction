@@ -58,8 +58,15 @@ Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 └── README.md
 ```
 
-## Current Status
-Project initialization completed. Dataset exploration and model development are upcoming.
+
+
+## Project Progress
+
+- Project setup completed
+- Dataset added
+- EDA completed
+- Next: Data preprocessing
+
 
 ## Author
 Dharmateja Reddy Kothinti
