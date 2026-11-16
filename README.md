@@ -33,10 +33,10 @@ Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 - [x] Project initialization
 - [x] Python virtual environment setup
 - [x] Initial ML dependencies installed
-- [ ] Dataset exploration
-- [ ] Exploratory Data Analysis
-- [ ] Data preprocessing
-- [ ] Feature engineering
+- [x] Dataset exploration
+- [x] Exploratory Data Analysis
+- [x] Data preprocessing
+- [x] Feature engineering
 - [ ] Model training
 - [ ] Model evaluation
 - [ ] Model explainability
@@ -65,7 +65,7 @@ Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 - Project setup completed
 - Dataset added
 - EDA completed
-- Next: Data preprocessing
+- Data preprocessing in progress
 
 
 ## Author
