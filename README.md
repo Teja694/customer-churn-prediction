@@ -37,9 +37,9 @@ Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 - [x] Exploratory Data Analysis
 - [x] Data preprocessing
 - [x] Feature engineering
-- [ ] Model training
-- [ ] Model evaluation
-- [ ] Model explainability
+- [x] Model training
+- [x] Model evaluation
+- [x] Model explainability
 - [ ] FastAPI development
 - [ ] Streamlit application
 - [ ] Deployment
@@ -59,13 +59,18 @@ Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ```
 
 
-
 ## Project Progress
 
 - Project setup completed
 - Dataset added
-- EDA completed
-- Data preprocessing in progress
+- Exploratory data analysis completed
+- Data cleaning and preprocessing completed
+- Trained Logistic Regression, Decision Tree, Random Forest and XGBoost models
+- Compared initial model performance
+
+## Current Status
+
+Initial model training completed. Working on model evaluation and improvement.
 
 
 ## Author
